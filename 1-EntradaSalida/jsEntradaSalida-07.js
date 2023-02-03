@@ -10,7 +10,7 @@ function sumar()
 
 function restar()
 {
-	
+	fggfdgdfgdf
 }
 
 function multiplicar()

@@ -10,7 +10,7 @@ function mostrarAumento()
 
 	radio = 5;
 
-	//lert(Math.PI);
+	//alert(Math.PI);
 
 	calculo = Math.PI * 2 * radio;
 
